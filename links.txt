@@ -1,0 +1,11 @@
+Author:
+
+https://github.com/KingNormac/CPlusPlus-Opengl-Dragonbones
+
+http://forum.starling-framework.org/topic/opengl-c-port-of-dragonbones
+
+Libs:
+
+http://www.glfw.org/download.html
+
+http://glew.sourceforge.net/
